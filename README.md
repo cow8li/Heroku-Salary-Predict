@@ -1,1 +1,1 @@
-# Heroku-Salary-Pridict
+# Heroku-Salary-Predict
